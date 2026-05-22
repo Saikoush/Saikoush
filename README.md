@@ -35,7 +35,7 @@ Passionate about AI, Full Stack Development, and Open Source.
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="45" width="45"/>
 </a>
 
-<a href="https://github.com/Saikoush/Saikoush.github.io">
+<a href="https://saikoush.github.io" target="_blank">
 <img src="https://img.icons8.com/color/48/domain.png" height="50"/>
 </a>
 </p>
